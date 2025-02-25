@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hellow World! I'm Mohammad Zeinddine a software engineer form Lebanon:
 🔭 I’m currently studying<br>🌱 I’m currently learning<br>
 
 
